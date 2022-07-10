@@ -48,3 +48,22 @@ Examples include Decentraland, Horizon Worlds, and The Sandbox. Will there be on
 **Degen** - short for degenerate. Term of affection - comes from “degenerate gambler.”
 
 **Alpha** - best described as “intel”. Those who possess alpha have information that the rest of the market hasn’t found out about yet. 
+
+## Slide 15 - Slang Terms
+
+“It was like nothing I ever saw. Just complete murder and carnage," said the firefighter. “While things appeared calm at first, a man in a suit arrived and talked about investment opportunities. Next thing you know, these people over here started chanting 'hodl, hodl,’ and their NFTs started mooning. And then, these guys over here started saying those guys right there right-clicked 'em, and called for a pump-and dump. Which made these guys beat the living hell out of anyone who said it was just FOMO and died screaming that it was the flippening.”
+HODL - Misspelling of “hold.” First used in 2013. The term caught on and earned the acronym hold on for dear life. Crypto community members use the term to signal they’re not selling.
+
+**FOMO** - Fear of Missing Out
+
+**WAGMI / NGMI** - We’re All Gonna Make It / Not Gonna Make It
+
+**Moon** - Mooning refers to an NFT project that is growing in price rapidly. Mooning and pumping are often used interchangeably.
+
+**Right Click** - to save the image of an NFT without owning the token.
+
+**Pump & Dump** - artificially raising the price just to sell out and leave. Similar to a rug pull.
+
+**The Flippening** - a possible future event where Ethereum overtakes Bitcoin as the biggest crypto.
+
+**Other Terms**: NFA & DYOR
