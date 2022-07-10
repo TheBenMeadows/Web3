@@ -10,9 +10,9 @@ Technical definition: “A blockchain is a growing list of records, called block
 
 How is Ethereum different from Bitcoin? “Bitcoin's primary use case is as a store of value and a digital currency. Ether can also be used as a digital currency and store of value, but the Ethereum network also makes it possible to create and run decentralized applications and smart contracts. Blocks are validated approximately every 12 seconds on Ethereum as opposed to approximately every 10 minutes on Bitcoin.” Ethereum = World Computer
 
-[Not in the scope of this presentation](#ethereum-2): Proof of Stake, Sharding (Scalability Trilema), Layer 2 Scaling (Rollups & Sidechains) 
+[Topics outside the scope of this presentation](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/): Proof of Stake, Sharding (Scalability Trilema), Layer 2 Scaling (Rollups & Sidechains) 
 
-**NFTs** - see attached.
+**NFTs** - [see linked graphic](https://c.neevacdn.net/image/fetch/s--XXfyrGpA--/https%3A//lh3.googleusercontent.com/-JJnNBWlP6wA/XLSOQTNrHQI/AAAAAAAAApw/zkeY0XfpXgUQAYZ4BpmcqaE1Lm70oq_ngCK8BGAs/s0/DIFFERENCES%252BBETWEEN%252B%252BFUNGIBLE%252BAND%252BNON-FUNGIBLE%252BTOKENS%252B.png?savepath=DIFFERENCES+BETWEEN++FUNGIBLE+AND+NON-FUNGIBLE+TOKENS+.png).
 
 **Web 1 vs 2 vs 3** - see references sheet. Quick caveat - we are at Web 2.5. Still not seamless. Most communication and coordination still occurs at the Web 2 level. Web 3 tools are coming: e.g. nftychat.xyz and lens.xyz (lens protocol).
 
@@ -20,4 +20,4 @@ How is Ethereum different from Bitcoin? “Bitcoin's primary use case is as a st
 
 ## References
 
-### [Ethereum 2.0](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
+
