@@ -72,3 +72,8 @@ HODL - Misspelling of “hold.” First used in 2013. The term caught on and ear
 
 See references [1](https://ownest.io/en/news/history-of-nfts), [2](https://nfttimeline.com/), & [3](https://connect.redditinc.com/hubfs/ABCs-of-NFTs.pdf).
 
+## Slide 26 - What is an NFT
+
+**IPFS** - [Interplanetary File System](https://medium.com/pinata/ethereum-and-ipfs-e816e12a3c59)
+
+
