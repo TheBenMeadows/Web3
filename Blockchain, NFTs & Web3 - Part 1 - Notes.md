@@ -49,7 +49,7 @@ Examples include Decentraland, Horizon Worlds, and The Sandbox. Will there be on
 
 **Alpha** - best described as “intel”. Those who possess alpha have information that the rest of the market hasn’t found out about yet. 
 
-## Slide 15 - Slang Terms
+## Slide 19 - Slang Terms
 
 “It was like nothing I ever saw. Just complete murder and carnage," said the firefighter. “While things appeared calm at first, a man in a suit arrived and talked about investment opportunities. Next thing you know, these people over here started chanting 'hodl, hodl,’ and their NFTs started mooning. And then, these guys over here started saying those guys right there right-clicked 'em, and called for a pump-and dump. Which made these guys beat the living hell out of anyone who said it was just FOMO and died screaming that it was the flippening.”
 HODL - Misspelling of “hold.” First used in 2013. The term caught on and earned the acronym hold on for dear life. Crypto community members use the term to signal they’re not selling.
@@ -66,4 +66,9 @@ HODL - Misspelling of “hold.” First used in 2013. The term caught on and ear
 
 **The Flippening** - a possible future event where Ethereum overtakes Bitcoin as the biggest crypto.
 
-**Other Terms**: NFA & DYOR
+**Other Terms:** NFA & DYOR
+
+## Slide 22 - History of NFTs
+
+See references [1](https://ownest.io/en/news/history-of-nfts), [2](https://nfttimeline.com/), & [3](https://connect.redditinc.com/hubfs/ABCs-of-NFTs.pdf).
+
