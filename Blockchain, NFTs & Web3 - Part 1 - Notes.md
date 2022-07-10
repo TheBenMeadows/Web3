@@ -1,6 +1,6 @@
 # Blockchain, NFTs & Web3 - Part 1 - Introduction - Notes
 
-### Slide 4 - Important Terms
+## Slide 4 - Important Terms
 
 **Blockchain** - Immutable Distributed Ledger - A spreadsheet that lives on lots of decentralized computers (think torrents like Napster or Limewire) and where you can only add lines (think subtraction via addition). Also, there is a cost to making changes by adding lines.
 
@@ -10,8 +10,8 @@ Technical definition: “A blockchain is a growing list of records, called block
 
 How is Ethereum different from Bitcoin? “Bitcoin's primary use case is as a store of value and a digital currency. Ether can also be used as a digital currency and store of value, but the Ethereum network also makes it possible to create and run decentralized applications and smart contracts. Blocks are validated approximately every 12 seconds on Ethereum as opposed to approximately every 10 minutes on Bitcoin.” Ethereum = World Computer
 
-Not in the scope of this presentation: Proof of Stake, Sharding (Scalability Trilema), Layer 2 Scaling (Rollups & Sidechains) 
+[Not in the scope of this presentation](# Ethereum 2.0): Proof of Stake, Sharding (Scalability Trilema), Layer 2 Scaling (Rollups & Sidechains) 
 
-### References
+## References
 
-[Ethereum 2.0](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
+### [Ethereum 2.0](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
