@@ -12,6 +12,12 @@ How is Ethereum different from Bitcoin? “Bitcoin's primary use case is as a st
 
 [Not in the scope of this presentation](#ethereum-2.0): Proof of Stake, Sharding (Scalability Trilema), Layer 2 Scaling (Rollups & Sidechains) 
 
+**NFTs** - see attached.
+
+**Web 1 vs 2 vs 3** - see references sheet. Quick caveat - we are at Web 2.5. Still not seamless. Most communication and coordination still occurs at the Web 2 level. Web 3 tools are coming: e.g. nftychat.xyz and lens.xyz (lens protocol).
+
+**Wallet** - Crypto wallets keep your private keys – the passwords that give you access to your cryptocurrencies – safe and accessible, allowing you to send and receive cryptocurrencies like Bitcoin and Ethereum. They come in many forms, from hardware wallets like Ledger (which looks like a USB stick) to mobile apps. Unlike a normal wallet, which can hold actual cash, crypto wallets technically don’t store your crypto. Your holdings live on the blockchain, but can only be accessed using a private key. Your keys prove your ownership of your digital money and allow you to make transactions. If you lose your private keys, you lose access to your money. 
+
 ## References
 
 ### [Ethereum 2.0](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
