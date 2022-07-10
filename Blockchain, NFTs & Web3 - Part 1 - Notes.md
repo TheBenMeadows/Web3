@@ -22,10 +22,9 @@ Technical definition: “A blockchain is a growing list of records, called block
 
 &nbsp;&nbsp;&nbsp;&nbsp;Fiat currency - fiat money is a government-issued currency that is not backed by a physical commodity, such as gold or silver, &nbsp;&nbsp;&nbsp;&nbsp;but rather by the  government that issued it.
 
-Bridge - Allow you to move crypto from a layer-1 to a layer-2 network.
+**Bridge** - Allow you to move crypto from a layer-1 to a layer-2 network.
 
-Layer-2 networks sit on top of layer-1 networks. Usually, layer 2s are faster and cheaper 
-than the base layer of the blockchain. Sometimes, they can do things that layer-2 blockchains cannot, such as accept assets from other layer-1 blockchains.
+&nbsp;&nbsp;&nbsp;&nbsp;Layer-2 networks sit on top of layer-1 networks. Usually, layer 2s are faster and cheaper than the base layer of the blockchain. &nbsp;&nbsp;&nbsp;&nbsp;Sometimes, they can do things that layer-2 blockchains cannot, such as accept assets from other layer-1 blockchains.
 
 DeFi - offers financial instruments without relying on intermediaries such as brokerages, exchanges, or banks by using smart contracts on a blockchain. 
 
