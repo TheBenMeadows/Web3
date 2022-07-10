@@ -14,9 +14,7 @@ Technical definition: “A blockchain is a growing list of records, called block
 
 **NFTs** - [see linked graphic](https://c.neevacdn.net/image/fetch/s--XXfyrGpA--/https%3A//lh3.googleusercontent.com/-JJnNBWlP6wA/XLSOQTNrHQI/AAAAAAAAApw/zkeY0XfpXgUQAYZ4BpmcqaE1Lm70oq_ngCK8BGAs/s0/DIFFERENCES%252BBETWEEN%252B%252BFUNGIBLE%252BAND%252BNON-FUNGIBLE%252BTOKENS%252B.png?savepath=DIFFERENCES+BETWEEN++FUNGIBLE+AND+NON-FUNGIBLE+TOKENS+.png).
 
-**Web 1 vs 2 vs 3** - see references 1
-
-Quick caveat - we are at Web 2.5. Still not seamless. Most communication and coordination still occurs at the Web 2 level. Web 3 tools are coming: e.g. [nfty chat](https://nftychat.xyz/) and [Lens Protocol](https://lens.xyz/).
+**Web 1 vs 2 vs 3** - see references [1](https://enlear.academy/web-1-0-vs-web-2-0-vs-web-3-0-e428cfe09dde), [2](https://ethereum.org/en/developers/docs/web2-vs-web3/) & [3](https://www.notboring.co/p/web3-use-cases-today). Quick caveat - we are at Web 2.5. Still not seamless. Most communication and coordination still occurs at the Web 2 level. Web 3 tools are coming: e.g. [nfty chat](https://nftychat.xyz/) and [Lens Protocol](https://lens.xyz/).
 
 **Wallet** - Crypto wallets keep your private keys – the passwords that give you access to your cryptocurrencies – safe and accessible, allowing you to send and receive cryptocurrencies like Bitcoin and Ethereum. They come in many forms, from hardware wallets like Ledger (which looks like a USB stick) to mobile apps. Unlike a normal wallet, which can hold actual cash, crypto wallets technically don’t store your crypto. Your holdings live on the blockchain, but can only be accessed using a private key. Your keys prove your ownership of your digital money and allow you to make transactions. If you lose your private keys, you lose access to your money. 
 
