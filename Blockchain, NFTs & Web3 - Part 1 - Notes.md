@@ -20,7 +20,7 @@ Technical definition: “A blockchain is a growing list of records, called block
 
 **Exchange** - Allow you to trade fiat currency for cryptocurrency.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Fiat currency - fiat money is a government-issued currency that is not backed by a physical commodity, such as gold or silver, but rather by the  government that issued it.
+&nbsp;&nbsp;&nbsp;&nbsp;Fiat currency - fiat money is a government-issued currency that is not backed by a physical commodity, such as gold or silver, &nbsp;&nbsp;&nbsp;&nbsp;but rather by the  government that issued it.
 
 Bridge - Allow you to move crypto from a layer-1 to a layer-2 network.
 
