@@ -84,10 +84,13 @@ See [reference](https://www.bueno.art/blog/nft-ecosystem).
 
 Crypto wallets range from simple-to-use apps to more complex security solutions. The main types of wallets you can choose from include:
 * Paper wallets: Keys are written on a physical medium like paper and stored in a safe place. This of course makes using your crypto harder, because as digital money it can only be used on the internet.   
-Hardware wallets: Keys are stored in a thumb-drive device that is kept in a safe place and only connected to a computer when you want to use your crypto. The idea is to try to balance security and convenience.
-Online wallets: Keys are stored in an app or other software – look for one that is protected by two-step encryption. This makes sending, receiving, and using your crypto as easy as using any online bank account, payment system, or brokerage.   
+* Hardware wallets: Keys are stored in a thumb-drive device that is kept in a safe place and only connected to a computer when you want to use your crypto. The idea is to try to balance security and convenience.
+* Online wallets: Keys are stored in an app or other software – look for one that is protected by two-step encryption. This makes sending, receiving, and using your crypto as easy as using any online bank account, payment system, or brokerage.   
+
 Each type has its tradeoffs. Paper and hardware wallets are harder for malicious users to access because they are stored offline, but they are limited in function and risk being lost or destroyed. Online wallets offered by a major exchange like Coinbase are the simplest way to get started in crypto and offer a balance of security and easy access. (Because your private info is online, your protection against hackers is only as good as your wallet provider's security – so make sure you look for features like two-factor verification.)
-The Future
+
+## The Future
+
 “Disruptive products often start out looking like a toy, and it’s easy to point out their shortcomings, but those shortcomings are often fixable misdirections. The magic is in looking for the things that they do better than existing options.”
 
 
