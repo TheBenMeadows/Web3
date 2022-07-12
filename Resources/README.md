@@ -25,12 +25,16 @@ This is an Ethereum-first list of interesting Web3-related websites that I have 
 
 **[`^        back to top        ^`](#)**
 
+- OpenSea
 - [Quixotic](https://quixotic.io/) - Discover, collect, and sell digital items on the largest NFT marketplace on Optimism. `Layer 2` `Optimism`
+- Rarible
 - [Stratos](https://stratosnft.io/) - Discover, collect, and sell digital items on the largest NFT marketplace on Arbitrum. `Layer 2` `Arbitrum`
 
 ### NFT Tools
 
 **[`^        back to top        ^`](#)**
+
+- [Flips.watch](https://flips.watch/) - Analyze your NFT trading history and profits.
 
 ### Social Media
 
