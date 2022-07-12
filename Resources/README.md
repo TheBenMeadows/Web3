@@ -4,6 +4,8 @@
 
 An Ethereum-first list of interesting Web3-related websites that I have come across.
 
+*Related: [Mixtapes: Vol. 1 - Web3 Resources](https://mixtapes-nft-vol-1.notion.site/mixtapes-nft-vol-1/Mixtapes-Vol-1-f829b9f1787348699a1b6fe0ce810f0d)*
+
 ## Table of Contents
 
 - [Websites](#websites)
