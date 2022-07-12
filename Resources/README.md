@@ -21,9 +21,16 @@ An Ethereum-first list of interesting Web3-related websites that I have come acr
 
 **[`^        back to top        ^`](#)**
 
+- Hop
+- Orbiter
+
 ### Exchanges
 
 **[`^        back to top        ^`](#)**
+
+- Coinbase
+- Gemini
+- Kraken
 
 ### Marketplaces
 
