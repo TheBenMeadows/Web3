@@ -26,6 +26,7 @@ This is an Ethereum-first list of interesting Web3-related websites that I have 
 **[`^        back to top        ^`](#)**
 
 - [Quixotic](https://quixotic.io/) - Discover, collect, and sell digital items on the largest NFT marketplace on Optimism. `Layer 2` `Optimism`
+- [Stratos](https://stratosnft.io/) - Discover, collect, and sell digital items on the largest NFT marketplace on Arbitrum. `Layer 2` `Arbitrum`
 
 ### NFT Tools
 
