@@ -7,6 +7,10 @@ This is an Ethereum-first list of interesting Web3-related websites that I have 
 ## Table of Contents
 
 - [Websites](#websites)
+  - [Bridges](#bridges)
+  - [Exchanges](#exchanges)
+  - [Marketplaces](#marketplaces)
+  - [NFT Tools](#nft-tools)   
   - [Social Media](#social-media) 
 
 --------------------
