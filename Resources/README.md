@@ -38,10 +38,14 @@ An Ethereum-first list of interesting Web3-related websites that I have come acr
 
 **[`^        back to top        ^`](#)**
 
+- Ethereum Name Service
+- Foundation
+- Infinity.xyz
 - OpenSea
 - [Quixotic](https://quixotic.io/) - Discover, collect, and sell digital items on the largest NFT marketplace on Optimism. `Layer 2` `Optimism`
 - Rarible
 - [Stratos](https://stratosnft.io/) - Discover, collect, and sell digital items on the largest NFT marketplace on Arbitrum. `Layer 2` `Arbitrum`
+- SuperRare
 
 ### NFT Tools
 
