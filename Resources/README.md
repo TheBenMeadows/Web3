@@ -13,7 +13,7 @@ An Ethereum-first list of interesting Web3-related websites that I have come acr
   - [Exchanges](#exchanges)
   - [Marketplaces](#marketplaces)
   - [NFT Tools](#nft-tools)   
-  - [Safety & Security](#safety)
+  - [Safety](#safety)
   - [Social Media](#social-media) 
 
 --------------------
@@ -56,7 +56,7 @@ An Ethereum-first list of interesting Web3-related websites that I have come acr
 - [NFTScoring](https://nftscoring.com/trending)
 - [Trait Sniper](https://app.traitsniper.com/)
 
-### Safety & Security
+### Safety
 
 **[`^        back to top        ^`](#)**
 
