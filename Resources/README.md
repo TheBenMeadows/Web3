@@ -13,6 +13,7 @@ An Ethereum-first list of interesting Web3-related websites that I have come acr
   - [Exchanges](#exchanges)
   - [Marketplaces](#marketplaces)
   - [NFT Tools](#nft-tools)   
+  - [Safety & Security](#safety-&-security)
   - [Social Media](#social-media) 
 
 --------------------
@@ -52,6 +53,14 @@ An Ethereum-first list of interesting Web3-related websites that I have come acr
 **[`^        back to top        ^`](#)**
 
 - [Flips.watch](https://flips.watch/) - Analyze your NFT trading history and profits.
+- [NFTScoring](https://nftscoring.com/trending)
+- [Trait Sniper](https://app.traitsniper.com/)
+
+### Safety & Security
+
+**[`^        back to top        ^`](#)**
+
+- [Revoke.cash](https://revoke.cash/)
 
 ### Social Media
 
