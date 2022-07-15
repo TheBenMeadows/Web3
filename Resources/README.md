@@ -13,7 +13,7 @@ An Ethereum-first list of interesting Web3-related websites that I have come acr
   - [Exchanges](#exchanges)
   - [Marketplaces](#marketplaces)
   - [NFT Tools](#nft-tools)   
-  - [Safety & Security](#safety-&-security)
+  - [Safety & Security](#safety)
   - [Social Media](#social-media) 
 
 --------------------
