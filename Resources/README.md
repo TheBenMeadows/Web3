@@ -10,6 +10,7 @@ An Ethereum-first list of interesting Web3-related websites that I have come acr
 
 - [Websites](#websites)
   - [Bridges](#bridges)
+  - [Education](#education)
   - [Exchanges](#exchanges)
   - [Marketplaces](#marketplaces)
   - [NFT Tools](#nft-tools)   
@@ -26,6 +27,12 @@ An Ethereum-first list of interesting Web3-related websites that I have come acr
 
 - Hop
 - Orbiter
+
+### Education
+
+**[`^        back to top        ^`](#)**
+
+- Rabbithole
 
 ### Exchanges
 
@@ -55,6 +62,7 @@ An Ethereum-first list of interesting Web3-related websites that I have come acr
 - [Flips.watch](https://flips.watch/) - Analyze your NFT trading history and profits.
 - [NFTScoring](https://nftscoring.com/trending)
 - [Trait Sniper](https://app.traitsniper.com/)
+- [sunspot](https://sunspot.gg/)
 
 ### Safety
 
