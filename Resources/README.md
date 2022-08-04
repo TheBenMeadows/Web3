@@ -85,3 +85,10 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 **[`^        back to top        ^`](#)**
 
 - [Caches](https://caches.xyz) - Caches is a web3 authenticated multi-topic forum on all subjects related to Ethereum and Web3 technology. Hosted, created and curated by members.
+
+### Web 2.5
+
+**[`^        back to top        ^`](#)**
+
+- Linktree Alternatives
+  - Singlelink
