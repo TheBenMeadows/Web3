@@ -36,7 +36,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 
 - Collab.Land
 - Guild.xyz
-- **Vulcan**
+- [**Vulcan**](https://vulcanbot.io/)
 
 ### Education
 
