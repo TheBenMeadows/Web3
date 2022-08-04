@@ -18,7 +18,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
   - [NFT Tools](#nft-tools)   
   - [Safety](#safety)
   - [Social Media](#social-media) 
-  - [Web 2.5 Tools](#web-2.5-tools)
+  - [Web 2.5 Tools](#web-2)
 
 --------------------
 
