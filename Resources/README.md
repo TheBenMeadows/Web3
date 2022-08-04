@@ -18,6 +18,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
   - [NFT Tools](#nft-tools)   
   - [Safety](#safety)
   - [Social Media](#social-media) 
+  - [Web 2.5 Tools](#web-2.5-tools)
 
 --------------------
 
@@ -29,14 +30,6 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 
 - Hop
 - Orbiter
-
-### Discord Token-Gated Verification Tools
-
-**[`^        back to top        ^`](#)**
-
-- Collab.Land
-- Guild.xyz
-- [**Vulcan**](https://vulcanbot.io/)
 
 ### Education
 
@@ -86,9 +79,13 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 
 - [Caches](https://caches.xyz) - Caches is a web3 authenticated multi-topic forum on all subjects related to Ethereum and Web3 technology. Hosted, created and curated by members.
 
-### Web 2.5
+### Web 2.5 Tools
 
 **[`^        back to top        ^`](#)**
 
+- Discord Tools
+  - Collab.Land
+  - Guild.xyz
+  - [**Vulcan**](https://vulcanbot.io/)
 - Linktree Alternatives
-  - Singlelink
+  - [Singlelink](https://www.singlelink.co/) - The open-source Linktree alternative. `Free`
