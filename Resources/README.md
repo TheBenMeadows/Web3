@@ -2,7 +2,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An Ethereum-first list of interesting Web3-related websites that I have come across.
+An Ethereum-first, opinionated and curated list of interesting Web3-related websites that I have come across.
+
+_NB - My favorites in each section are in *bold*.
 
 *Related: [Mixtapes: Vol. 1 - Web3 Resources](https://mixtapes-nft-vol-1.notion.site/mixtapes-nft-vol-1/Mixtapes-Vol-1-f829b9f1787348699a1b6fe0ce810f0d)*
 
