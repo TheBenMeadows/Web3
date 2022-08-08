@@ -15,6 +15,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
   - [Education](#education)
   - [Exchanges](#exchanges)
   - [Marketplaces](#marketplaces)
+  - [NFT Minting](#nft-minting)
   - [NFT Tools](#nft-tools)   
   - [Safety](#safety)
   - [Social Media](#social-media) 
@@ -57,6 +58,15 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 - Rarible
 - [Stratos](https://stratosnft.io/) - Discover, collect, and sell digital items on the largest NFT marketplace on Arbitrum. `Layer 2` `Arbitrum`
 - SuperRare
+
+### NFT Minting
+
+**[`^        back to top        ^`](#)**
+
+- [AutoMinter](https://www.autominter.com/)
+- [Manifold](https://www.manifold.xyz/)
+- [NiftyKit](https://niftykit.com/)
+- [One Mint](https://onemint.io/)
 
 ### NFT Tools
 
