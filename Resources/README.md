@@ -72,6 +72,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 
 **[`^        back to top        ^`](#)**
 
+- [ENS Appraiser](https://ensappraiser.com/)
 - [Flips.watch](https://flips.watch/) - Analyze your NFT trading history and profits.
 - [NFTScoring](https://nftscoring.com/trending)
 - [Trait Sniper](https://app.traitsniper.com/)
