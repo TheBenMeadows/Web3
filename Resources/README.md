@@ -76,6 +76,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 - [NFTScoring](https://nftscoring.com/trending)
 - [Trait Sniper](https://app.traitsniper.com/)
 - [sunspot](https://sunspot.gg/)
+- [Whale Tracker](https://nftgo.io/whale-tracking/activity)
 
 ### Safety
 
