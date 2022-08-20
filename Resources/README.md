@@ -33,7 +33,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 - [Craiyon, formerly DALL·E mini](https://www.craiyon.com/)
 - [DALL·E 2](https://openai.com/dall-e-2/)
 - [Midjourney](https://www.midjourney.com)
-- *[Additional Resources](https://aiartists.org/ai-generated-art-tools)*
+- *[Additional Resources](https://aiartists.org/ai-generated-art-tools), [Even More](https://www.betchashesews.com/midjourney-portraits/)*
 
 ### Bridges
 
