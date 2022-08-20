@@ -11,6 +11,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 ## Table of Contents
 
 - [Websites](#websites)
+  - [AI Art Tools](#ai-art-tools)  
   - [Bridges](#bridges)
   - [Education](#education)
   - [Exchanges](#exchanges)
@@ -24,6 +25,15 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 --------------------
 
 ## Websites
+
+### AI Art Tools
+
+**[`^        back to top        ^`](#)**
+
+- Crayon
+- Dall-E 2
+- Midjourney
+- *[Additional Resources](https://aiartists.org/ai-generated-art-tools)*
 
 ### Bridges
 
