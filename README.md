@@ -8,4 +8,6 @@
 
 ### [Additional Resources (In Progress)](https://github.com/bemeadows/Web3/tree/main/Resources#readme)
 
+### [Ben Speaks with Dr. Randall about the Blockchain & Healthcare - 38 Min. Mark](https://anchor.fm/evmavericks/episodes/E3--Dr--Randall-e1m00ki)
+
 ![Club FOMO](https://github.com/bemeadows/Web3/blob/main/Photos/Club%20FOMO.jpg)
