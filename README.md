@@ -6,8 +6,8 @@
 
 ### [Video Clips from Presentation delivered 7/1/22 at Club FOMO](https://youtube.com/playlist?list=PL-caOdqO4A8ffp9jer5OCxodxzs97ynpe)
 
-### [Additional Resources (In Progress)](https://github.com/bemeadows/Web3/tree/main/Resources#readme)
+### [EVMavericks Podcast - Ben Speaks with Dr. Randall about Web3 - Starts at 38 min.](https://anchor.fm/evmavericks/episodes/E3--Dr--Randall-e1m00ki)
 
-### [Ben Speaks with Dr. Randall about the Blockchain & Healthcare - 38 Min. Mark](https://anchor.fm/evmavericks/episodes/E3--Dr--Randall-e1m00ki)
+### [Additional Resources (In Progress)](https://github.com/bemeadows/Web3/tree/main/Resources#readme)
 
 ![Club FOMO](https://github.com/bemeadows/Web3/blob/main/Photos/Club%20FOMO.jpg)
