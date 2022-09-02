@@ -114,7 +114,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 **[`^        back to top        ^`](#)**
 
 - [Caches](https://caches.xyz) - Caches is a web3 authenticated multi-topic forum on all subjects related to Ethereum and Web3 technology. Hosted, created and curated by members.
-- [PNTHN}(https://pnthn.xyz/) - The Professional Network for the Web3 space.
+- [PNTHN](https://pnthn.xyz/) - The Professional Network for the Web3 space.
 
 ### Web2 Tools
 
