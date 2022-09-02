@@ -15,6 +15,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
   - [Bridges](#bridges)
   - [Education](#education)
   - [Exchanges](#exchanges)
+  - [Liquid Staking](#liquid-staking)
   - [Marketplaces](#marketplaces)
   - [NFT Minting](#nft-minting)
   - [NFT Tools](#nft-tools)   
@@ -55,6 +56,13 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 - Coinbase
 - Gemini
 - Kraken
+
+### Liquid Staking
+
+**[`^        back to top        ^`](#)**
+
+- [RocketPool](https://stake.rocketpool.net/)
+- [Swell Network](https://app.swellnetwork.io/)
 
 ### Marketplaces
 
