@@ -13,6 +13,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 - [Websites](#websites)
   - [AI Art Tools](#ai-art-tools)  
   - [Bridges](#bridges)
+  - [Domains](#domains)
   - [Education](#education)
   - [Exchanges](#exchanges)
   - [Liquid Staking](#liquid-staking)
@@ -42,6 +43,11 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 
 - Hop
 - Orbiter
+
+### Domains
+
+- [Ethereum Name Service (ENS)](https://app.ens.domains/)
+- [Unstoppable Domains](https://unstoppabledomains.com/)
 
 ### Education
 
