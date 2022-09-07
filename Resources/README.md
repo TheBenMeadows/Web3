@@ -92,6 +92,9 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 - [Manifold](https://www.manifold.xyz/)
 - [NiftyKit](https://niftykit.com/)
 - [One Mint](https://onemint.io/)
+- Access List Tools
+  - [Premint](https://premint.xyz)
+  - [Superful](https://superful.xyz)  
 
 ### NFT Tools
 
