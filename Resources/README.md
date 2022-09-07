@@ -88,6 +88,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 **[`^        back to top        ^`](#)**
 
 - [AutoMinter](https://www.autominter.com/)
+- [Fair](https://fair.xyz/)
 - [Manifold](https://www.manifold.xyz/)
 - [NiftyKit](https://niftykit.com/)
 - [One Mint](https://onemint.io/)
