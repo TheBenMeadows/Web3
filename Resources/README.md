@@ -132,3 +132,4 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
   - [Bubbles](https://www.joinbubbles.co/)
 - Linktree Alternatives
   - [Singlelink](https://www.singlelink.co/) - The open-source Linktree alternative. `Free`
+  - [LynkFire](https://lynkfire.com/) 
