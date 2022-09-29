@@ -130,6 +130,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
     - Guild.xyz
     - [**Vulcan**](https://vulcanbot.io/)
   - [Bubbles](https://www.joinbubbles.co/)
+  - [Local Timestamp Formatting](https://c.r74n.com/discord/formatting#Timestamps)
 - Linktree Alternatives
   - [Singlelink](https://www.singlelink.co/) - The open-source Linktree alternative. `Free`
   - [LynkFire](https://lynkfire.com/) 
