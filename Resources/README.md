@@ -127,6 +127,10 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 
 - [FXHash Collectors](https://fxcollectors.stroep.nl/)
 - [FXHash Mint Tool](https://fxhash.netlify.app/)
+- [Nftbiker's Multitool](https://nftbiker.xyz/?)
+- [Tenderly Collected](https://laurent.houdard.net/tenderly-collected/20000)
+- [TezTok Live Feed](https://live.teztok.com/)
+  - [A Twitter Thread on Tezos Mint Security](https://twitter.com/platontwitts/status/1578683527423721472?s=20&t=J5BVYYQNmQBhXx3KM5Fqvg)
 
 ### Web2 Tools
 
