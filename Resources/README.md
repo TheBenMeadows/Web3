@@ -22,6 +22,7 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
   - [NFT Tools](#nft-tools)   
   - [Safety](#safety)
   - [Social Media](#social-media) 
+  - [Tezos Tools](#tezos-tools)
   - [Web2 Tools](#web2-tools)
 
 --------------------
@@ -119,6 +120,13 @@ An Ethereum-first, opinionated and curated list of interesting Web3-related webs
 
 - [Caches](https://caches.xyz) - Caches is a web3 authenticated multi-topic forum on all subjects related to Ethereum and Web3 technology. Hosted, created and curated by members.
 - [PNTHN](https://pnthn.xyz/) - The Professional Network for the Web3 space.
+
+### Tezos Tools
+
+**[`^        back to top        ^`](#)**
+
+- [FXHash Collectors](https://fxcollectors.stroep.nl/)
+- [FXHash Mint Tool](https://fxhash.netlify.app/)
 
 ### Web2 Tools
 
