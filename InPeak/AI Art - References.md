@@ -11,9 +11,10 @@ TOPICS:
 
 **References**
 
-- 
+- History of AI
 
-- Podcasts
--   TEst
+- Twitter Posts
+
+- [PROOF Podcast](https://podcasts.proof.xyz/artist-profile-ai-art-is-not-art-with-best-selling-ai-artist-claire-silver/) - AI Art is Not Art, with Best-Selling AI Artist Claire Silver
 
 - [Futurepedia](https://www.futurepedia.io/) - The largest AI tools directory, updated daily.
