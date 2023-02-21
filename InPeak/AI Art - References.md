@@ -14,3 +14,5 @@ TOPICS:
 - 
 
 - Podcasts
+
+- [Futurepedia](https://www.futurepedia.io/)
