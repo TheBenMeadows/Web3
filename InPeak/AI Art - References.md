@@ -15,4 +15,4 @@ TOPICS:
 
 - Podcasts
 
-- [Futurepedia](https://www.futurepedia.io/)
+- [Futurepedia](https://www.futurepedia.io/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
