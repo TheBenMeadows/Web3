@@ -15,6 +15,7 @@ TOPICS:
   - [Timeline of AI Art | AIArtists.org](https://aiartists.org/ai-timeline-art)
 
 - Twitter Posts
+  - [Creation Process | TheBenMeadows](https://twitter.com/TheBenMeadows/status/1601358943741440000)
 
 - [PROOF Podcast](https://podcasts.proof.xyz/artist-profile-ai-art-is-not-art-with-best-selling-ai-artist-claire-silver/) - AI Art is Not Art, with Best-Selling AI Artist Claire Silver
 
