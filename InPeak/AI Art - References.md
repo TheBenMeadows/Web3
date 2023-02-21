@@ -11,7 +11,8 @@ TOPICS:
 
 **References**
 
-- History of AI
+- History of AI Art
+  - (Timeline of AI Art | AIArtists.org)[https://aiartists.org/ai-timeline-art]
 
 - Twitter Posts
 
