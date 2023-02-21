@@ -14,5 +14,6 @@ TOPICS:
 - 
 
 - Podcasts
+-   TEst
 
-- [Futurepedia](https://www.futurepedia.io/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
+- [Futurepedia](https://www.futurepedia.io/) - The largest AI tools directory, updated daily.
