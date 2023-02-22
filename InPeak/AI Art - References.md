@@ -6,6 +6,7 @@
 
 - History of AI Art
   - [Timeline of AI Art | AIArtists.org](https://aiartists.org/ai-timeline-art)
+  - [How Did A.I. Art Evolve? | Artnet](https://news.artnet.com/art-world/artificial-intelligence-art-history-2045520)
 
 - Twitter Posts
   - [Creation Process | @TheBenMeadows](https://twitter.com/TheBenMeadows/status/1601358943741440000)
