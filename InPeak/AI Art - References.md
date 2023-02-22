@@ -19,3 +19,6 @@
 - [Futurepedia](https://www.futurepedia.io/) - The Largest AI Tools Directory, Updated Daily
 
 - [ControlNET | GitHub](https://github.com/lllyasviel/ControlNet)
+
+- Counterpoints (The Dark Side of AI)
+  - [Bankless Podcast](http://podcast.banklesshq.com/debrief-were-all-gonna-die) - We're All Gonna Die
