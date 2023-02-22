@@ -18,9 +18,9 @@
   - [PROOF Podcast](https://podcasts.proof.xyz/artist-profile-ai-art-is-not-art-with-best-selling-ai-artist-claire-silver/) - AI Art is Not Art, with Best-Selling AI Artist Claire Silver
   - [Bankless Podcast](http://podcast.banklesshq.com/138-whats-next-vitalik-buterin-part-ii) - Vitalik Buterin on The State of AI (skip to 30 min.)
 
-- [Futurepedia](https://www.futurepedia.io/) - The Largest AI Tools Directory, Updated Daily
-
-- [ControlNET | GitHub](https://github.com/lllyasviel/ControlNet)
+- Miscellany
+  - [Futurepedia](https://www.futurepedia.io/) - The Largest AI Tools Directory, Updated Daily
+  - [ControlNET | GitHub](https://github.com/lllyasviel/ControlNet)
 
 - Counterpoints (The Dark Side of AI)
   - [Bankless Podcast](http://podcast.banklesshq.com/debrief-were-all-gonna-die) - We're All Gonna Die
