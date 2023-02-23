@@ -23,6 +23,7 @@
   - [The AI Art At Christie’s Is Not What You Think | Artnome](https://www.artnome.com/news/2018/10/13/the-ai-art-at-christies-is-not-what-you-think)
   - [AI Is Blurring the Definition of Artist | American Scientist](https://www.americanscientist.org/article/ai-is-blurring-the-definition-of-artist)
   - [AI won’t make artists redundant - thanks to information theory](https://p.migdal.pl/blog/2023/02/ai-arts-information-theory/)
+  - [Is A.I. Art Stealing from Artists? | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists)
 
 - Artist Profiles
   - [PROOF Podcast](https://podcasts.proof.xyz/artist-profile-ai-art-is-not-art-with-best-selling-ai-artist-claire-silver/) - AI Art is Not Art, with Best-Selling AI Artist Claire Silver
