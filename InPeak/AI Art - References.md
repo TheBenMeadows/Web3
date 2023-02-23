@@ -15,23 +15,22 @@
 - Controversy
   - [AI Art Panic | Opinionated Guides](https://opguides.info/posts/aiartpanic/#the-photography-analogy)
 
-- Podcasts
+- Artist Profiles
   - [PROOF Podcast](https://podcasts.proof.xyz/artist-profile-ai-art-is-not-art-with-best-selling-ai-artist-claire-silver/) - AI Art is Not Art, with Best-Selling AI Artist Claire Silver
+  - [Four Artists Open Up About AI](https://nftnow.com/features/four-artists-open-up-about-ai-and-the-future-of-their-craft/)
 
 # Addendum - Additional Resources on AI & Art
 
-- [Bankless](http://podcast.banklesshq.com/138-whats-next-vitalik-buterin-part-ii) - Vitalik Buterin on The State of AI (skip to 30 min. mark) `podcast`
-  
-- Miscellany
-  - [Futurepedia](https://www.futurepedia.io/) - The Largest AI Tools Directory, Updated Daily
-  - [ControlNET | GitHub](https://github.com/lllyasviel/ControlNet)
+- [Bankless](http://podcast.banklesshq.com/138-whats-next-vitalik-buterin-part-ii) - Vitalik Buterin on The State of AI (skip to 30 min. mark) `podcast`  
+- [Futurepedia](https://www.futurepedia.io/) - The Largest AI Tools Directory, Updated Daily
 
 # Epilogue - The Last Invention That Man Need Ever Make
 
 Interesting thoughts on the dark side of artificial general intelligence.
 
+  - [The End of the Worl](https://podcastaddict.com/episode/138244291) - Artificial Intelligence `podcast`
   - [Bankless Podcast](http://podcast.banklesshq.com/debrief-were-all-gonna-die) - We're All Gonna Die `podcast`
-  - The End of The World Podcast `podcast`
+  - 
   - [Beyond Hyperanthropomorphism](https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism) - Or, why fears of AI are not even wrong, and how to make them real
   - [The Beast Adjoins](https://web.archive.org/web/20211126090806/https://www.asimovs.com/assets/1/6/TheBeastAdjoins_Kosmatka.pdf) `fiction`
   - [The Hidden Girl and Other Stories](https://www.goodreads.com/book/show/52163147-the-hidden-girl-and-other-stories) `fiction`
