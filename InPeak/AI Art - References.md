@@ -13,6 +13,7 @@
   - [Creation Process | @TheBenMeadows](https://twitter.com/TheBenMeadows/status/1601358943741440000)
   - [AI Art Tutorials | @ClaireSilver12](https://twitter.com/ClaireSilver12/status/1611991035487346688)
   - [Historic AI Art | @ClownVamp](https://twitter.com/ClownVamp/status/1619782836650909696)
+  - [The AI Artists List | @tender_art](https://twitter.com/tender_art/status/1626215740251709442)
 
 - Controversy
   - [AI Art Panic | Opinionated Guides](https://opguides.info/posts/aiartpanic/#the-photography-analogy)
