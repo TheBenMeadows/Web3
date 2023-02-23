@@ -31,6 +31,7 @@
   - [AI Art Donated to LACMA | Twitter - 2/13/2023](https://twitter.com/ClaireSilver12/status/1625214426470129664)
   - [Viral Instagram photographer has a confession: His photos are AI-generated | Ars Technica - 2/21/2023](https://arstechnica.com/information-technology/2023/02/viral-instagram-photographer-has-a-confession-his-photos-are-ai-generated/)
   - [Mauritshuis hangs artwork created by AI in place of loaned-out Vermeer | NL Times - 2/22/2023](https://nltimes.nl/2023/02/22/mauritshuis-hangs-artwork-created-ai-place-loaned-vermeer) 
+  - [A mixed decision from the US Copyright Office | Process Mechanics - 2/22/2023](https://www.processmechanics.com/2023/02/22/a-mixed-decision-from-the-us-copyright-office/)
 
 # Lessons 2-6 - Placeholder Text
 
