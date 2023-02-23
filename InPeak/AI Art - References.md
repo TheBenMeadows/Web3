@@ -27,9 +27,9 @@
   - [Four Artists Open Up About AI](https://nftnow.com/features/four-artists-open-up-about-ai-and-the-future-of-their-craft/)
 
 - Recent AI Art News (As of 2/23/2023)
-  - [AI Art Donated to LACMA | Twitter](https://twitter.com/ClaireSilver12/status/1625214426470129664)
-  - [Viral Instagram photographer has a confession: His photos are AI-generated | Ars Technica](https://arstechnica.com/information-technology/2023/02/viral-instagram-photographer-has-a-confession-his-photos-are-ai-generated/)
-  - [Mauritshuis hangs artwork created by AI in place of loaned-out Vermeer | NL Times - 2/22/2012](https://nltimes.nl/2023/02/22/mauritshuis-hangs-artwork-created-ai-place-loaned-vermeer) 
+  - [AI Art Donated to LACMA | Twitter - 2/13/2023](https://twitter.com/ClaireSilver12/status/1625214426470129664)
+  - [Viral Instagram photographer has a confession: His photos are AI-generated | Ars Technica - 2/21/2023](https://arstechnica.com/information-technology/2023/02/viral-instagram-photographer-has-a-confession-his-photos-are-ai-generated/)
+  - [Mauritshuis hangs artwork created by AI in place of loaned-out Vermeer | NL Times - 2/22/2023](https://nltimes.nl/2023/02/22/mauritshuis-hangs-artwork-created-ai-place-loaned-vermeer) 
 
 # Lessons 2-6 - Placeholder Text
 
