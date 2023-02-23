@@ -39,4 +39,4 @@ Interesting thoughts on the dark side of artificial general intelligence.
   - [The Beast Adjoins](https://web.archive.org/web/20211126090806/https://www.asimovs.com/assets/1/6/TheBeastAdjoins_Kosmatka.pdf) `fiction`
   - [The Hidden Girl and Other Stories](https://www.goodreads.com/book/show/52163147-the-hidden-girl-and-other-stories) `fiction`
 
-BONUS: Does any of it matter?
+BONUS: Does any of this matter? [The End of the World](https://podcastaddict.com/episode/138241649) - Simulation Argument `podcast`
