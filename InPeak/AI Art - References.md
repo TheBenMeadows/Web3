@@ -21,6 +21,8 @@
   - [PROOF Podcast](https://podcasts.proof.xyz/artist-profile-ai-art-is-not-art-with-best-selling-ai-artist-claire-silver/) - AI Art is Not Art, with Best-Selling AI Artist Claire Silver
   - [Four Artists Open Up About AI](https://nftnow.com/features/four-artists-open-up-about-ai-and-the-future-of-their-craft/)
 
+# Lessons 2-6 - PLACEHOLDER TEXT
+
 # Addendum - Additional Resources on AI & Art
 
 - [Bankless](http://podcast.banklesshq.com/138-whats-next-vitalik-buterin-part-ii) - Vitalik Buterin on The State of AI (skip to 30 min. mark) `podcast`  
