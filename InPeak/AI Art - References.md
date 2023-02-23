@@ -25,6 +25,9 @@
   - [AI won’t make artists redundant - thanks to information theory](https://p.migdal.pl/blog/2023/02/ai-arts-information-theory/)
   - [Is A.I. Art Stealing from Artists? | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists)
   - [AI or No, It’s Always Too Soon to Sound the Death Knell of Art | Wired](https://www.wired.com/story/art-history-photography-painting-dalle-ai/)
+  - [AI-art isn't art | The Intrinsic Perspective](https://erikhoel.substack.com/p/ai-art-isnt-art)
+  - [Have AI image generators assimilated your art? | Ars Technica](https://arstechnica.com/information-technology/2022/09/have-ai-image-generators-assimilated-your-art-new-tool-lets-you-check/)
+  - [The scary truth about AI copyright is nobody knows what will happen next | The Verge](https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data)
 
 - Artist Profiles
   - [PROOF Podcast](https://podcasts.proof.xyz/artist-profile-ai-art-is-not-art-with-best-selling-ai-artist-claire-silver/) - AI Art is Not Art, with Best-Selling AI Artist Claire Silver
