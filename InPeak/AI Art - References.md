@@ -21,6 +21,9 @@
   - [PROOF Podcast](https://podcasts.proof.xyz/artist-profile-ai-art-is-not-art-with-best-selling-ai-artist-claire-silver/) - AI Art is Not Art, with Best-Selling AI Artist Claire Silver
   - [Four Artists Open Up About AI](https://nftnow.com/features/four-artists-open-up-about-ai-and-the-future-of-their-craft/)
 
+- Recent AI Art News (As of 2/23/2023)
+  - [NL Times - 2/22/2012](https://nltimes.nl/2023/02/22/mauritshuis-hangs-artwork-created-ai-place-loaned-vermeer) 
+
 # Lessons 2-6 - Placeholder Text
 
 # Addendum - Additional Resources on AI & Art
