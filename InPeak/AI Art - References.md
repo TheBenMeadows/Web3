@@ -14,6 +14,7 @@
 
 - Controversy
   - [AI Art Panic | Opinionated Guides](https://opguides.info/posts/aiartpanic/#the-photography-analogy)
+  - [The AI Art At Christie’s Is Not What You Think | Artnome](https://www.artnome.com/news/2018/10/13/the-ai-art-at-christies-is-not-what-you-think)
 
 - Artist Profiles
   - [PROOF Podcast](https://podcasts.proof.xyz/artist-profile-ai-art-is-not-art-with-best-selling-ai-artist-claire-silver/) - AI Art is Not Art, with Best-Selling AI Artist Claire Silver
