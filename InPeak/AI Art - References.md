@@ -15,6 +15,7 @@
   - [AI Art Tutorials | @ClaireSilver12](https://twitter.com/ClaireSilver12/status/1611991035487346688)
   - [Historic AI Art | @ClownVamp](https://twitter.com/ClownVamp/status/1619782836650909696)
   - [The AI Artists List | @tender_art](https://twitter.com/tender_art/status/1626215740251709442)
+  - [Notable AI Artists | @0xWatkins](https://twitter.com/0xWatkins/status/1626238416546590720)
 
 - Controversy
   - [AI Art Panic | Opinionated Guides](https://opguides.info/posts/aiartpanic/#the-photography-analogy)
