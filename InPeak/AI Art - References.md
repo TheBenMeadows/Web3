@@ -14,6 +14,7 @@
   - [Creation Process | @TheBenMeadows](https://twitter.com/TheBenMeadows/status/1601358943741440000)
   - [AI Art Tutorials | @ClaireSilver12](https://twitter.com/ClaireSilver12/status/1611991035487346688)
   - [Historic AI Art | @ClownVamp](https://twitter.com/ClownVamp/status/1619782836650909696)
+  - [Second Wave AI Art | @ClownVamp](https://twitter.com/ClownVamp/status/1624876750693105664)
   - [The AI Artists List | @tender_art](https://twitter.com/tender_art/status/1626215740251709442)
   - [Notable AI Artists | @0xWatkins](https://twitter.com/0xWatkins/status/1626238416546590720)
 
