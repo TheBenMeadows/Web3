@@ -17,6 +17,7 @@
   - [Second Wave AI Art | @ClownVamp](https://twitter.com/ClownVamp/status/1624876750693105664)
   - [The AI Artists List | @tender_art](https://twitter.com/tender_art/status/1626215740251709442)
   - [Notable AI Artists | @0xWatkins](https://twitter.com/0xWatkins/status/1626238416546590720)
+  - [AI Behind The Scenes | @ClownVamp](https://twitter.com/ClownVamp/status/1620485980355710977)
 
 - Controversy
   - [AI Art Panic | Opinionated Guides](https://opguides.info/posts/aiartpanic/#the-photography-analogy)
