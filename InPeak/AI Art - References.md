@@ -48,6 +48,7 @@
 **References**
 
 - [Text-to-Image Diffusion Models: A Guide for Non-Technical Readers](https://www.shinyobjects.gg/blog/Text-to-Image-Diffusion-Models)
+- [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) - Very in-depth
 
 # Lessons 3-6 - Placeholder Text
 
