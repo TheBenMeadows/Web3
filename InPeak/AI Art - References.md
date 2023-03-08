@@ -41,7 +41,13 @@
   - [Mauritshuis hangs artwork created by AI in place of loaned-out Vermeer | NL Times - 2/22/2023](https://nltimes.nl/2023/02/22/mauritshuis-hangs-artwork-created-ai-place-loaned-vermeer) 
   - [A mixed decision from the US Copyright Office | Process Mechanics - 2/22/2023](https://www.processmechanics.com/2023/02/22/a-mixed-decision-from-the-us-copyright-office/)
 
-# Lessons 2-6 - Placeholder Text
+# Lesson 2 - Basic Tools for Creating AI Art
+
+**Summary** - In this lesson, we will look at the top three AI systems for creating art from text prompts: DALL-E 2, Midjourney & Stable Diffusion. We will touch on how they actually produce images. We will also discuss how they are similar, as well as the ways in which they differ. We will also discuss how to access and use each of these systems, as well as look briefly at some other alternatives, and new advancements that are on the horizon.
+
+**References**
+
+# Lessons 3-6 - Placeholder Text
 
 # Addendum - Additional Resources on AI & Art
 
