@@ -61,7 +61,7 @@ Interesting thoughts on the dark side of artificial general intelligence.
   - [The End of the World](https://podcastaddict.com/episode/138244291) - Artificial Intelligence `podcast`
   - [Bankless Podcast](http://podcast.banklesshq.com/159-were-all-gonna-die-with-eliezer-yudkowsky) - We're All Gonna Die `podcast`
   - [Bankless Podcast](http://podcast.banklesshq.com/debrief-were-all-gonna-die) - We're All Gonna Die (Debrief) `podcast`
-  - [Beyond Hyperanthropomorphism](https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism) - Or, why fears of AI are not even wrong, and how to make them real
+  - [Beyond Hyperanthropomorphism](https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism) - Or, why fears of AI are not even wrong, and how to make them real `blog`
   - [The Beast Adjoins](https://web.archive.org/web/20211126090806/https://www.asimovs.com/assets/1/6/TheBeastAdjoins_Kosmatka.pdf) `fiction`
   - [The Hidden Girl and Other Stories](https://www.goodreads.com/book/show/52163147-the-hidden-girl-and-other-stories) `fiction`
 
