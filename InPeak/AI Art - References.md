@@ -47,6 +47,8 @@
 
 **References**
 
+- [Text-to-Image Diffusion Models: A Guide for Non-Technical Readers](https://www.shinyobjects.gg/blog/Text-to-Image-Diffusion-Models)
+
 # Lessons 3-6 - Placeholder Text
 
 # Addendum - Additional Resources on AI & Art
