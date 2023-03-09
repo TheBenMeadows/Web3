@@ -66,6 +66,7 @@
 - [Google's Imagen](https://imagen.research.google/)
 - [Google Brain's Answer to Dalle-e 2: Imagen](https://www.louisbouchard.ai/google-brain-imagen/)
 - [Stable diffusion and the brain: how AI can read our minds](https://levelup.gitconnected.com/stable-diffusion-and-the-brain-how-ai-can-read-our-minds-45398b395ea9)
+- [Craiyon - Free](https://www.craiyon.com/)
 
 # Lessons 3-6 - Placeholder Text
 
