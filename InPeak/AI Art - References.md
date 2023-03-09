@@ -61,6 +61,7 @@
 - [Scribble Diffusion](https://scribblediffusion.com/)
 - [StableRes](https://stableres.info/)
 - [DiffusionBee](https://diffusionbee.com/)
+- [Unleashing Your Creativity: A Beginner's Guide to AI Art in 2023](https://aisuite.substack.com/p/unleashing-your-creativity)
 
 # Lessons 3-6 - Placeholder Text
 
