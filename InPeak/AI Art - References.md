@@ -65,6 +65,7 @@
 - [ControlNET & Stable Diffusion: A Game Changer](https://bootcamp.uxdesign.cc/controlnet-and-stable-diffusion-a-game-changer-for-ai-image-generation-83555cb942fc)
 - [Google's Imagen](https://imagen.research.google/)
 - [Google Brain's Answer to Dalle-e 2: Imagen](https://www.louisbouchard.ai/google-brain-imagen/)
+- [Stable diffusion and the brain: how AI can read our minds](https://levelup.gitconnected.com/stable-diffusion-and-the-brain-how-ai-can-read-our-minds-45398b395ea9)
 
 # Lessons 3-6 - Placeholder Text
 
