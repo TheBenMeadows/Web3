@@ -62,6 +62,7 @@
 - [StableRes](https://stableres.info/)
 - [DiffusionBee](https://diffusionbee.com/)
 - [Unleashing Your Creativity: A Beginner's Guide to AI Art in 2023](https://aisuite.substack.com/p/unleashing-your-creativity)
+- [ControlNET & Stable Diffusion: A Game Changer](https://bootcamp.uxdesign.cc/controlnet-and-stable-diffusion-a-game-changer-for-ai-image-generation-83555cb942fc)
 
 # Lessons 3-6 - Placeholder Text
 
