@@ -52,6 +52,8 @@
 - [The Physics Principle That Inspired Modern AI Art](https://www.wired.com/story/the-physics-principle-that-inspired-modern-ai-art/)
 - [Latent Diffusion Models Explained](https://www.louisbouchard.ai/latent-diffusion-models/)
 - [Midjourney - Image Parameters](https://web.archive.org/web/20230119150757/https://midjourney.gitbook.io/docs/imagine-parameters)
+- [The First Week of Stable Diffusion Going Open Source](https://multimodal.art/news/1-week-of-stable-diffusion)
+- [The Awesome Stable Diffusion List](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 
 # Lessons 3-6 - Placeholder Text
 
