@@ -64,6 +64,7 @@
 - [Unleashing Your Creativity: A Beginner's Guide to AI Art in 2023](https://aisuite.substack.com/p/unleashing-your-creativity)
 - [ControlNET & Stable Diffusion: A Game Changer](https://bootcamp.uxdesign.cc/controlnet-and-stable-diffusion-a-game-changer-for-ai-image-generation-83555cb942fc)
 - [Google's Imagen](https://imagen.research.google/)
+- [Google Brain's Answer to Dalle-e 2: Imagen](https://www.louisbouchard.ai/google-brain-imagen/)
 
 # Lessons 3-6 - Placeholder Text
 
