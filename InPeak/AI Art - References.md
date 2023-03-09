@@ -54,6 +54,7 @@
 - [Midjourney - Image Parameters](https://web.archive.org/web/20230119150757/https://midjourney.gitbook.io/docs/imagine-parameters)
 - [The First Week of Stable Diffusion Going Open Source](https://multimodal.art/news/1-week-of-stable-diffusion)
 - [The Awesome Stable Diffusion List](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
+- [Mochi Diffusion - SD on Mac](https://github.com/godly-devotion/MochiDiffusion)
 
 # Lessons 3-6 - Placeholder Text
 
