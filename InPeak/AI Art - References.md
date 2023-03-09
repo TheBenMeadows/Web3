@@ -57,6 +57,8 @@
 - [The Awesome Stable Diffusion List](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 - [Mochi Diffusion - SD on Mac](https://github.com/godly-devotion/MochiDiffusion)
 - [Stable Horde](https://stablehorde.net/)
+- [Pirate Diffusion](https://scum.co/)
+- [Scribble Diffusion](https://scribblediffusion.com/)
 
 # Lessons 3-6 - Placeholder Text
 
