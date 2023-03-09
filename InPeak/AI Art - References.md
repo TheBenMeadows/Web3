@@ -56,6 +56,7 @@
 - [The First Week of Stable Diffusion Going Open Source](https://multimodal.art/news/1-week-of-stable-diffusion)
 - [The Awesome Stable Diffusion List](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 - [Mochi Diffusion - SD on Mac](https://github.com/godly-devotion/MochiDiffusion)
+- [Stable Horde](https://stablehorde.net/)
 
 # Lessons 3-6 - Placeholder Text
 
