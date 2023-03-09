@@ -60,6 +60,7 @@
 - [Pirate Diffusion](https://scum.co/)
 - [Scribble Diffusion](https://scribblediffusion.com/)
 - [StableRes](https://stableres.info/)
+- [DiffusionBee](https://diffusionbee.com/)
 
 # Lessons 3-6 - Placeholder Text
 
