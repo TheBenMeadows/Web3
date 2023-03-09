@@ -51,6 +51,7 @@
 - [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) - Very in-depth
 - [The Physics Principle That Inspired Modern AI Art](https://www.wired.com/story/the-physics-principle-that-inspired-modern-ai-art/)
 - [Latent Diffusion Models Explained](https://www.louisbouchard.ai/latent-diffusion-models/)
+- [Midjourney - Image Parameters](https://web.archive.org/web/20230119150757/https://midjourney.gitbook.io/docs/imagine-parameters)
 
 # Lessons 3-6 - Placeholder Text
 
