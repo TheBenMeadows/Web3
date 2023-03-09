@@ -59,6 +59,7 @@
 - [Stable Horde](https://stablehorde.net/)
 - [Pirate Diffusion](https://scum.co/)
 - [Scribble Diffusion](https://scribblediffusion.com/)
+- [StableRes](https://stableres.info/)
 
 # Lessons 3-6 - Placeholder Text
 
