@@ -70,6 +70,7 @@
 - [Lexica.art](https://lexica.art/aperture)
 - [Dreamlike.art](https://dreamlike.art/create)
 - [NightCafe](https://creator.nightcafe.studio)
+- [ControlNET Demo](https://huggingface.co/spaces/hysts/ControlNet)
 
 # Lessons 3-6 - Placeholder Text
 
