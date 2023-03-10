@@ -75,7 +75,7 @@
 
 # Addendum - Additional Resources on AI & Art
 
-- [Bankless](http://podcast.banklesshq.com/138-whats-next-vitalik-buterin-part-ii) - Vitalik Buterin on The State of AI (skip to 30 min. mark) `podcast`  
+- [Bankless](http://podcast.banklesshq.com/138-whats-next-vitalik-buterin-part-ii) - Vitalik Buterin on the Current State of AI (skip to 30 min. mark) `podcast`  
 - [Futurepedia](https://www.futurepedia.io/) - The Largest AI Tools Directory, Updated Daily
 
 # Epilogue - The Last Invention That Man Need Ever Make
