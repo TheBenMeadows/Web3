@@ -49,34 +49,34 @@
 
 - [From Dall-E to Stable Diffusion](https://tryolabs.com/blog/2022/08/31/from-dalle-to-stable-diffusion) `article`
 - [Text-to-Image Diffusion Models: A Guide for Non-Technical Readers](https://www.shinyobjects.gg/blog/Text-to-Image-Diffusion-Models) `article`
-- [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) - Very in-depth
-- [The Physics Principle That Inspired Modern AI Art](https://www.wired.com/story/the-physics-principle-that-inspired-modern-ai-art/)
-- [Latent Diffusion Models Explained](https://www.louisbouchard.ai/latent-diffusion-models/)
+- [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) - Very in-depth `article`
+- [The Physics Principle That Inspired Modern AI Art](https://www.wired.com/story/the-physics-principle-that-inspired-modern-ai-art/) `article`
+- [Latent Diffusion Models Explained](https://www.louisbouchard.ai/latent-diffusion-models/) `article`
 - [Midjourney - Image Parameters](https://web.archive.org/web/20230119150757/https://midjourney.gitbook.io/docs/imagine-parameters)
-- [The First Week of Stable Diffusion Going Open Source](https://multimodal.art/news/1-week-of-stable-diffusion)
+- [The First Week of Stable Diffusion Going Open Source](https://multimodal.art/news/1-week-of-stable-diffusion) `article`
 - [The Awesome Stable Diffusion List](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
-- [Mochi Diffusion - SD on Mac](https://github.com/godly-devotion/MochiDiffusion)
-- [Stable Horde](https://stablehorde.net/)
-- [Pirate Diffusion](https://scum.co/)
-- [Scribble Diffusion](https://scribblediffusion.com/)
-- [StableRes](https://stableres.info/)
+- [Mochi Diffusion - SD on Mac](https://github.com/godly-devotion/MochiDiffusion) `software`
+- [Stable Horde](https://stablehorde.net/) `hands-on` `web app`
+- [Pirate Diffusion](https://scum.co/) `hands-on` `web app`
+- [Scribble Diffusion](https://scribblediffusion.com/) `hands-on` `web app`
+- [StableRes](https://stableres.info/) 
 - [DiffusionBee](https://diffusionbee.com/)
 - [Unleashing Your Creativity: A Beginner's Guide to AI Art in 2023](https://aisuite.substack.com/p/unleashing-your-creativity)
 - [ControlNET & Stable Diffusion: A Game Changer](https://bootcamp.uxdesign.cc/controlnet-and-stable-diffusion-a-game-changer-for-ai-image-generation-83555cb942fc)
 - [Google's Imagen](https://imagen.research.google/)
-- [Google Brain's Answer to Dalle-e 2: Imagen](https://www.louisbouchard.ai/google-brain-imagen/)
-- [Stable diffusion and the brain: how AI can read our minds](https://levelup.gitconnected.com/stable-diffusion-and-the-brain-how-ai-can-read-our-minds-45398b395ea9)
-- [Craiyon - Free](https://www.craiyon.com/)
-- [Lexica.art](https://lexica.art/aperture)
-- [Dreamlike.art](https://dreamlike.art/create)
-- [NightCafe](https://creator.nightcafe.studio)
-- [ControlNET Demo](https://huggingface.co/spaces/hysts/ControlNet)
+- [Google Brain's Answer to Dalle-e 2: Imagen](https://www.louisbouchard.ai/google-brain-imagen/) `article`
+- [Stable diffusion and the brain: how AI can read our minds](https://levelup.gitconnected.com/stable-diffusion-and-the-brain-how-ai-can-read-our-minds-45398b395ea9) `article`
+- [Craiyon - Free](https://www.craiyon.com/) `hands-on` `web app`
+- [Lexica.art](https://lexica.art/aperture) `hands-on` `web app`
+- [Dreamlike.art](https://dreamlike.art/create) `hands-on` `web app`
+- [NightCafe](https://creator.nightcafe.studio) `hands-on` `web app`
+- [ControlNET Demo](https://huggingface.co/spaces/hysts/ControlNet) `hands-on` `web app`
 
-# Lesson 3
+# Lesson 3 - Tools & Workflows for AI Art (Part 1)
 
-# Lesson 4
+# Lesson 4 - Tools & Workflows for AI Art (Part 2)
 
-# Lesson 5
+# Lesson 5 - Getting Familiar with GAN
 
 # Addendum - Additional Resources on AI & Art
 
