@@ -74,9 +74,21 @@
 
 # Lesson 3 - Tools & Workflows for AI Art (Part 1)
 
+**Summary** - In this lesson, we will take a look an in-depth look at creating AI art using Midjourney and Stable Diffusion (and we may even create a piece live!). We will cover concepts such as prompt engineering, image prompting, inpainting, outpainting, upscaling, using different models/checkpoints, and using ControlNet.
+
+**References**
+
 # Lesson 4 - Tools & Workflows for AI Art (Part 2)
 
+**Summary** - In this lesson, we will continue our in-depth look at Midjourney and Stable Diffusion. We will cover topics such as textual inversion, negative prompting, weighted prompts, prompt blending, and how to train your own model.
+
+**References**
+
 # Lesson 5 - Getting Familiar with GAN
+
+**Summary** - In this lesson, we will take a look at how GANs (Generative Adversarial Networks) are used to create and enhance art. We will go over GFPGAN, StyleGAN, ESRGAN, VQGAN+CLIP, and SFTGAN.
+
+**References**
 
 # Addendum - Additional Resources on AI & Art
 
