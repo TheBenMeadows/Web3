@@ -70,13 +70,15 @@
 - [Lexica.art](https://lexica.art/aperture) `hands-on` `web app`
 - [Dreamlike.art](https://dreamlike.art/create) `hands-on` `web app`
 - [NightCafe](https://creator.nightcafe.studio) `hands-on` `web app`
-- [ControlNET Demo](https://huggingface.co/spaces/hysts/ControlNet) `hands-on` `web app`
 
 # Lesson 3 - Tools & Workflows for AI Art (Part 1)
 
 **Summary** - In this lesson, we will take a look an in-depth look at creating AI art using Midjourney and Stable Diffusion (and we may even create a piece live!). We will cover concepts such as prompt engineering, image prompting, inpainting, outpainting, upscaling, using different models/checkpoints, and using ControlNet.
 
 **References**
+
+- [ControlNET Demo](https://huggingface.co/spaces/hysts/ControlNet) `hands-on` `web app`
+- [ControlNET Demo + Anything](https://huggingface.co/spaces/hysts/ControlNet-with-Anything-v4) `hands-on` `web app`
 
 # Lesson 4 - Tools & Workflows for AI Art (Part 2)
 
