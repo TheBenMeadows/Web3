@@ -59,7 +59,6 @@
 - [Stable Horde](https://stablehorde.net/) `hands-on` `web app`
 - [Pirate Diffusion](https://scum.co/) `hands-on` `web app`
 - [Scribble Diffusion](https://scribblediffusion.com/) `hands-on` `web app`
-- [StableRes](https://stableres.info/) 
 - [DiffusionBee](https://diffusionbee.com/)
 - [Unleashing Your Creativity: A Beginner's Guide to AI Art in 2023](https://aisuite.substack.com/p/unleashing-your-creativity)
 - [ControlNET & Stable Diffusion: A Game Changer](https://bootcamp.uxdesign.cc/controlnet-and-stable-diffusion-a-game-changer-for-ai-image-generation-83555cb942fc)
@@ -80,6 +79,7 @@
 - [Learn Prompting](https://learnprompting.org/docs/Images/intro) `resource`
 - [Midjourney Docs](https://docs.midjourney.com/docs) `resource`
 - [Stable Diffusion Prompt Book](https://openart.ai/promptbook) `resource`
+- [StableRes](https://stableres.info/) `custom models`
 
 # Lesson 4 - Tools & Workflows for AI Art (Part 2)
 
