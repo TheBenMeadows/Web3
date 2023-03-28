@@ -80,14 +80,15 @@
 - [Learn Prompting](https://learnprompting.org/docs/Images/intro) `resource`
 - [Midjourney Docs](https://docs.midjourney.com/docs) `resource`
 - [Stable Diffusion Prompt Book](https://openart.ai/promptbook) `resource`
-- [ControlNET Demo](https://huggingface.co/spaces/hysts/ControlNet) `hands-on` `web app`
-- [ControlNET Demo + Anything](https://huggingface.co/spaces/hysts/ControlNet-with-Anything-v4) `hands-on` `web app`
 
 # Lesson 4 - Tools & Workflows for AI Art (Part 2)
 
 **Summary** - In this lesson, we will continue our in-depth look at Midjourney and Stable Diffusion. We will cover topics such as textual inversion, negative prompting, weighted prompts, prompt blending, and how to train your own model.
 
 **References**
+
+- [ControlNET Demo](https://huggingface.co/spaces/hysts/ControlNet) `hands-on` `web app`
+- [ControlNET Demo + Anything](https://huggingface.co/spaces/hysts/ControlNet-with-Anything-v4) `hands-on` `web app`
 
 # Lesson 5 - Getting Familiar with GAN
 
