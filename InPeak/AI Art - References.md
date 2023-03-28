@@ -92,6 +92,20 @@
 
 **References**
 
+- [Five GANs for Better Image Processing](https://towardsdatascience.com/five-gans-for-better-image-processing-fabab88b370b) `article`
+- [GFPGAN](https://github.com/TencentARC/GFPGAN) `GitHub` `code repo`
+- [GFPGAN](https://huggingface.co/spaces/nightfury/Image_Face_Upscale_Restoration-GFPGAN) `hands-on` `web app`
+- [StyleGAN](https://github.com/NVlabs/stylegan)
+- [ESRGAN](https://github.com/xinntao/ESRGAN)
+- [SFTGAN](https://github.com/xinntao/SFTGAN) - Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform
+- [VQGAN+CLIP](https://github.com/nerdyrodent/VQGAN-CLIP)
+- [Basic SR](https://github.com/XPixelGroup/BasicSR)
+- [Real-ESRGAN](https://replicate.com/nightmareai/real-esrgan)
+- [Real-ESRGAN](https://huggingface.co/spaces/akhaliq/Real-ESRGAN)
+- [JoJoGAN](https://huggingface.co/spaces/akhaliq/JoJoGAN)
+- [AnimaGANv2](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
+- [ArcaneGAN](https://huggingface.co/spaces/akhaliq/ArcaneGAN)
+
 # Addendum - Additional Resources on AI & Art
 
 - [Bankless](http://podcast.banklesshq.com/138-whats-next-vitalik-buterin-part-ii) - Vitalik Buterin on the Current State of AI (skip to 30 min. mark) `podcast`  
