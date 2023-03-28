@@ -77,6 +77,7 @@
 
 **References**
 
+- [Learn Prompting](https://learnprompting.org/docs/Images/intro) `resource`
 - [ControlNET Demo](https://huggingface.co/spaces/hysts/ControlNet) `hands-on` `web app`
 - [ControlNET Demo + Anything](https://huggingface.co/spaces/hysts/ControlNet-with-Anything-v4) `hands-on` `web app`
 
