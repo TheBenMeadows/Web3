@@ -78,6 +78,8 @@
 **References**
 
 - [Learn Prompting](https://learnprompting.org/docs/Images/intro) `resource`
+- [Midjourney Docs](https://docs.midjourney.com/docs) `resource`
+- [Stable Diffusion Prompt Book](https://openart.ai/promptbook) `resource`
 - [ControlNET Demo](https://huggingface.co/spaces/hysts/ControlNet) `hands-on` `web app`
 - [ControlNET Demo + Anything](https://huggingface.co/spaces/hysts/ControlNet-with-Anything-v4) `hands-on` `web app`
 
