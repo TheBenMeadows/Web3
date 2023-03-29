@@ -92,7 +92,7 @@
 
 # Lesson 5 - Getting Familiar with GAN
 
-**Summary** - In this lesson, we will take a look at how GANs (Generative Adversarial Networks) are used to create and enhance art. We will go over GFPGAN, StyleGAN, ESRGAN, VQGAN+CLIP, SFTGAN, and more.
+**Summary** - In this lesson, we will take a look at how GANs (Generative Adversarial Networks) are used to create and enhance art. We will go over GFPGAN, StyleGAN, ESRGAN, VQGAN+CLIP, and SFTGAN.
 
 **References**
 
