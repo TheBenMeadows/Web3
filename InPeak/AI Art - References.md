@@ -87,6 +87,8 @@
 
 **References**
 
+- [Stable Diffusion - Prompt Weighting & Blending](https://stable-diffusion-art.com/fine-tune-your-ai-images-with-these-simple-prompting-techniques/)
+- [Advanced Negative Prompting](https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/)
 - [ControlNET Demo](https://huggingface.co/spaces/hysts/ControlNet) `hands-on` `web app`
 - [ControlNET Demo + Anything](https://huggingface.co/spaces/hysts/ControlNet-with-Anything-v4) `hands-on` `web app`
 
