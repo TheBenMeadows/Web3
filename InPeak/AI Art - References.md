@@ -100,6 +100,7 @@
 - [AI Art of Me — Textual Inversion vs. Dreambooth in Stable Diffusion](https://ericri.medium.com/ai-art-of-me-textual-inversion-vs-dreambooth-in-stable-diffusion-5e54bb2b881)
 - [Custom Model Using Dreambooth](https://techpp.com/2022/10/10/how-to-train-stable-diffusion-ai-dreambooth/)
 - [Stable Diffusion Custom Embedding - Local Development](https://techpp.com/2022/10/10/how-to-train-stable-diffusion-ai-dreambooth/)
+- [Meta AI - Segment Anything](https://segment-anything.com/)
 
 # Lesson 5 - Getting Familiar with GAN
 
