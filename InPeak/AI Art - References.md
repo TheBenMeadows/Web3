@@ -92,7 +92,7 @@
 - [ControlNET Demo](https://huggingface.co/spaces/hysts/ControlNet) `hands-on` `web app`
 - [ControlNET Demo + Anything](https://huggingface.co/spaces/hysts/ControlNet-with-Anything-v4) `hands-on` `web app`
 - [What is Textual Inversion?](https://textual-inversion.github.io/)
-- [What are LoRA Models?[(https://stable-diffusion-art.com/lora/)
+- [What are LoRA Models?](https://stable-diffusion-art.com/lora/)
 - [How to use Dreambooth](https://stable-diffusion-art.com/dreambooth/)
 - [LoRA vs Dreambooth vs Textual Inversion](https://www.youtube.com/watch?v=dVjMiJsuR5o) `video`
 - [Applying Offset Noise via LoRA](https://www.reddit.com/r/StableDiffusion/comments/11exf2v/apply_offset_noise_to_any_sd_15_model_using_this/)
