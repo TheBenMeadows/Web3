@@ -91,6 +91,7 @@
 - [Advanced Negative Prompting](https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/)
 - [ControlNET Demo](https://huggingface.co/spaces/hysts/ControlNet) `hands-on` `web app`
 - [ControlNET Demo + Anything](https://huggingface.co/spaces/hysts/ControlNet-with-Anything-v4) `hands-on` `web app`
+- [LoRA Demo](https://replicate.com/cloneofsimo/lora) `hands-on` `web app`
 - [What is Textual Inversion?](https://textual-inversion.github.io/)
 - [What are LoRA Models?](https://stable-diffusion-art.com/lora/)
 - [How to use Dreambooth](https://stable-diffusion-art.com/dreambooth/)
