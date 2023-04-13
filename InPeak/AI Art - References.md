@@ -95,6 +95,8 @@
 - [What are LoRA Models?[(https://stable-diffusion-art.com/lora/)
 - [How to use Dreambooth](https://stable-diffusion-art.com/dreambooth/)
 - [LoRA vs Dreambooth vs Textual Inversion](https://www.youtube.com/watch?v=dVjMiJsuR5o) `video`
+- [Applying Offset Noise via LoRA](https://www.reddit.com/r/StableDiffusion/comments/11exf2v/apply_offset_noise_to_any_sd_15_model_using_this/)
+- [Diffusion With Offset Noise](https://www.crosslabs.org//blog/diffusion-with-offset-noise)
 - [AI Art of Me — Textual Inversion vs. Dreambooth in Stable Diffusion](https://ericri.medium.com/ai-art-of-me-textual-inversion-vs-dreambooth-in-stable-diffusion-5e54bb2b881)
 - [Custom Model Using Dreambooth](https://techpp.com/2022/10/10/how-to-train-stable-diffusion-ai-dreambooth/)
 - [Stable Diffusion Custom Embedding - Local Development](https://techpp.com/2022/10/10/how-to-train-stable-diffusion-ai-dreambooth/)
