@@ -129,6 +129,7 @@
 - [Futurepedia](https://www.futurepedia.io/) - The Largest AI Tools Directory, Updated Daily
 - [Suno's Bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [What Are Transformer Models and How Do They Work?](https://txt.cohere.com/what-are-transformer-models/) `article`
+- [Free AI Image Generators](https://twitter.com/itsPaulAi/status/1650497347690852354) April 24, 2023 `Twitter`
 
 # Epilogue - The Last Invention That Man Need Ever Make
 
