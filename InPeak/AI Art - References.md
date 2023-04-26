@@ -122,7 +122,6 @@
 - [JoJoGAN](https://huggingface.co/spaces/akhaliq/JoJoGAN)
 - [AnimaGANv2](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
 - [ArcaneGAN](https://huggingface.co/spaces/akhaliq/ArcaneGAN)
-
 - [Midjourney: Multiprompt Image Blending](https://twitter.com/ChrisHeidorn/status/1647239163043803140) `twitter`
 
 # Addendum - Additional Resources on AI & Art
