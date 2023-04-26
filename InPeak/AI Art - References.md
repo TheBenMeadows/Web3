@@ -111,11 +111,11 @@
 
 - [StackGAN](https://github.com/hanzhanggit/StackGAN) `GitHub` `code repo`
 - [StyleGAN](https://github.com/NVlabs/stylegan) `GitHub` `code repo`
+- [VQGAN+CLIP](https://github.com/nerdyrodent/VQGAN-CLIP) `GitHub` `code repo`
 - [GFPGAN](https://github.com/TencentARC/GFPGAN) `GitHub` `code repo`
 - [GFPGAN](https://huggingface.co/spaces/nightfury/Image_Face_Upscale_Restoration-GFPGAN) `hands-on` `web app`
 - [ESRGAN](https://github.com/xinntao/ESRGAN)
 - [SFTGAN](https://github.com/xinntao/SFTGAN) - Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform
-- [VQGAN+CLIP](https://github.com/nerdyrodent/VQGAN-CLIP)
 - [Basic SR](https://github.com/XPixelGroup/BasicSR)
 - [Real-ESRGAN](https://replicate.com/nightmareai/real-esrgan)
 - [Real-ESRGAN](https://huggingface.co/spaces/akhaliq/Real-ESRGAN)
@@ -124,6 +124,7 @@
 - [ArcaneGAN](https://huggingface.co/spaces/akhaliq/ArcaneGAN)
 - [Midjourney: Multiprompt Image Blending](https://twitter.com/ChrisHeidorn/status/1647239163043803140) April 15, 2023 Post `twitter`
 - [Five GANs for Better Image Processing](https://towardsdatascience.com/five-gans-for-better-image-processing-fabab88b370b) `article`
+- [List of Projects that use CLIP](https://www.reddit.com/r/bigsleep/comments/tvw5js/list_of_sitesprogramsprojects_that_use_openais/)
 
 # Addendum - Additional Resources on AI & Art
 
