@@ -109,8 +109,8 @@
 
 **References**
 
-- [StackGAN](https://github.com/hanzhanggit/StackGAN)
-- [StyleGAN](https://github.com/NVlabs/stylegan)
+- [StackGAN](https://github.com/hanzhanggit/StackGAN) `GitHub` `code repo`
+- [StyleGAN](https://github.com/NVlabs/stylegan) `GitHub` `code repo`
 - [GFPGAN](https://github.com/TencentARC/GFPGAN) `GitHub` `code repo`
 - [GFPGAN](https://huggingface.co/spaces/nightfury/Image_Face_Upscale_Restoration-GFPGAN) `hands-on` `web app`
 - [ESRGAN](https://github.com/xinntao/ESRGAN)
@@ -122,7 +122,7 @@
 - [JoJoGAN](https://huggingface.co/spaces/akhaliq/JoJoGAN)
 - [AnimaGANv2](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
 - [ArcaneGAN](https://huggingface.co/spaces/akhaliq/ArcaneGAN)
-- [Midjourney: Multiprompt Image Blending](https://twitter.com/ChrisHeidorn/status/1647239163043803140) `twitter`
+- [Midjourney: Multiprompt Image Blending](https://twitter.com/ChrisHeidorn/status/1647239163043803140) April 15, 2023 Post `twitter`
 - [Five GANs for Better Image Processing](https://towardsdatascience.com/five-gans-for-better-image-processing-fabab88b370b) `article`
 
 # Addendum - Additional Resources on AI & Art
