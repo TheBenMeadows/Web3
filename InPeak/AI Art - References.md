@@ -109,10 +109,10 @@
 
 **References**
 
-- [Five GANs for Better Image Processing](https://towardsdatascience.com/five-gans-for-better-image-processing-fabab88b370b) `article`
+- [StackGAN](https://github.com/hanzhanggit/StackGAN)
+- [StyleGAN](https://github.com/NVlabs/stylegan)
 - [GFPGAN](https://github.com/TencentARC/GFPGAN) `GitHub` `code repo`
 - [GFPGAN](https://huggingface.co/spaces/nightfury/Image_Face_Upscale_Restoration-GFPGAN) `hands-on` `web app`
-- [StyleGAN](https://github.com/NVlabs/stylegan)
 - [ESRGAN](https://github.com/xinntao/ESRGAN)
 - [SFTGAN](https://github.com/xinntao/SFTGAN) - Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform
 - [VQGAN+CLIP](https://github.com/nerdyrodent/VQGAN-CLIP)
@@ -123,6 +123,7 @@
 - [AnimaGANv2](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
 - [ArcaneGAN](https://huggingface.co/spaces/akhaliq/ArcaneGAN)
 - [Midjourney: Multiprompt Image Blending](https://twitter.com/ChrisHeidorn/status/1647239163043803140) `twitter`
+- [Five GANs for Better Image Processing](https://towardsdatascience.com/five-gans-for-better-image-processing-fabab88b370b) `article`
 
 # Addendum - Additional Resources on AI & Art
 
@@ -131,6 +132,8 @@
 - [Suno's Bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [What Are Transformer Models and How Do They Work?](https://txt.cohere.com/what-are-transformer-models/) `article`
 - [Free AI Image Generators](https://twitter.com/itsPaulAi/status/1650497347690852354) April 24, 2023 Post `twitter`
+- [Midjourney Prompt Structure](https://twitter.com/nickfloats/status/1648052447854891008) April 17, 2023 Post `twitter`
+- [Midjourney v5 Prompt Tutorials](https://twitter.com/realchasecurtis/status/1640494401343438849) March 27, 2023 Post `twitter`
 
 # Epilogue - The Last Invention That Man Need Ever Make
 
