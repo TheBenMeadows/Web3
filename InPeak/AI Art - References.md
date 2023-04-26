@@ -128,6 +128,7 @@
 - [Bankless](http://podcast.banklesshq.com/138-whats-next-vitalik-buterin-part-ii) - Vitalik Buterin on the Current State of AI (skip to 30 min. mark) `podcast`  
 - [Futurepedia](https://www.futurepedia.io/) - The Largest AI Tools Directory, Updated Daily
 - [Suno's Bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+- [What Are Transformer Models and How Do They Work?](https://txt.cohere.com/what-are-transformer-models/) `article`
 
 # Epilogue - The Last Invention That Man Need Ever Make
 
