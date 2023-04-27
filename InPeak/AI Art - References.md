@@ -143,6 +143,7 @@
 - [InstructPix2Pix](https://www.timothybrooks.com/instruct-pix2pix/) `project page` `info`
 - [InstructPix2Pix](https://huggingface.co/spaces/timbrooks/instruct-pix2pix) `hands-on` `web app`
 - [InstructPix2Pix](https://replicate.com/timothybrooks/instruct-pix2pix) `hands-on` `web app`
+- [DeepFloyd IF](https://github.com/deep-floyd/IF) `GitHub` code repo`
 - [Midjourney: Multiprompt Image Blending](https://twitter.com/ChrisHeidorn/status/1647239163043803140) April 15, 2023 Post `twitter`
 - [Five GANs for Better Image Processing](https://towardsdatascience.com/five-gans-for-better-image-processing-fabab88b370b) `article`
 - [List of Projects that use CLIP](https://www.reddit.com/r/bigsleep/comments/tvw5js/list_of_sitesprogramsprojects_that_use_openais/) `reddit`
