@@ -116,7 +116,7 @@
 - [GFPGAN](https://huggingface.co/spaces/Xintao/GFPGAN) `hands-on` `web app`
 - [CodeFormer](https://github.com/sczhou/CodeFormer) `GitHub` `code repo`
 - [CodeFormer](https://huggingface.co/spaces/sczhou/CodeFormer) `hands-on` `web app`
-- [HEEEH](https://huggingface.co/spaces/nightfury/Image_Face_Upscale_Restoration-GFPGAN) `hands-on` `web app`
+- [GFPGAN & CodeFormer](https://huggingface.co/spaces/nightfury/Image_Face_Upscale_Restoration-GFPGAN) `hands-on` `web app`
 - [ESRGAN](https://github.com/xinntao/ESRGAN)
 - [SFTGAN](https://github.com/xinntao/SFTGAN) - Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform
 - [Basic SR](https://github.com/XPixelGroup/BasicSR)
