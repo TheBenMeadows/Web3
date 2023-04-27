@@ -117,6 +117,9 @@
 - [CodeFormer](https://github.com/sczhou/CodeFormer) `GitHub` `code repo`
 - [CodeFormer](https://huggingface.co/spaces/sczhou/CodeFormer) `hands-on` `web app`
 - [GFPGAN & CodeFormer](https://huggingface.co/spaces/nightfury/Image_Face_Upscale_Restoration-GFPGAN) `hands-on` `web app`
+- [GPEN](https://github.com/yangxy/GPEN) `GitHub` `code repo`
+- [GPEN](https://huggingface.co/spaces/akhaliq/GPEN) hands-on` `web app`
+- [GPEN](https://replicate.com/yangxy/gpen/examples) hands-on` `web app`
 - [DeOldify](https://github.com/jantic/DeOldify) `GitHub` `code repo`
 - [Palette.fm](https://palette.fm/)
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) `GitHub` code repo`
@@ -129,10 +132,12 @@
 - [SwinIR](https://replicate.com/jingyunliang/swinir) `hands-on` `web app`
 - [Latent SR](https://replicate.com/nightmareai/latent-sr) `hands-on` `web app`
 - [SD Upscalers](https://huggingface.co/spaces/Manjushri/SD-2X-And-4X-Upscaler-GPU) `hands-on` `web app`
-
-- [JoJoGAN](https://huggingface.co/spaces/akhaliq/JoJoGAN)
-- [AnimaGANv2](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
-- [ArcaneGAN](https://huggingface.co/spaces/akhaliq/ArcaneGAN)
+- [Ultimate Upscale for Automatic1111](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111) `GitHub` code repo`
+- [Topaz Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
+- [JoJoGAN](https://huggingface.co/spaces/akhaliq/JoJoGAN) `hands-on` `web app`
+- [AnimaGANv2](https://huggingface.co/spaces/akhaliq/AnimeGANv2) `hands-on` `web app`
+- [ArcaneGAN](https://huggingface.co/spaces/akhaliq/ArcaneGAN) `hands-on` `web app`
+- [GigaGAN](https://mingukkang.github.io/GigaGAN/) `project page` `info`
 - [Midjourney: Multiprompt Image Blending](https://twitter.com/ChrisHeidorn/status/1647239163043803140) April 15, 2023 Post `twitter`
 - [Five GANs for Better Image Processing](https://towardsdatascience.com/five-gans-for-better-image-processing-fabab88b370b) `article`
 - [List of Projects that use CLIP](https://www.reddit.com/r/bigsleep/comments/tvw5js/list_of_sitesprogramsprojects_that_use_openais/) `reddit`
