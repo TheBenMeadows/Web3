@@ -119,9 +119,12 @@
 - [GFPGAN & CodeFormer](https://huggingface.co/spaces/nightfury/Image_Face_Upscale_Restoration-GFPGAN) `hands-on` `web app`
 - [DeOldify](https://github.com/jantic/DeOldify) `GitHub` `code repo`
 - [Palette.fm](https://palette.fm/)
-- [SFTGAN](https://github.com/xinntao/SFTGAN) - Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform
-- [Real-ESRGAN](https://replicate.com/nightmareai/real-esrgan)
-- [Real-ESRGAN](https://huggingface.co/spaces/akhaliq/Real-ESRGAN)
+- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) `GitHub` code repo`
+- [Real-ESRGAN](https://huggingface.co/spaces/akhaliq/Real-ESRGAN) `hands-on` `web app`
+- [Real-ESRGAN](https://replicate.com/xinntao/realesrgan) `hands-on` `web app`
+- [Real-ESRGAN](https://replicate.com/nightmareai/real-esrgan) `hands-on` `web app`
+- [ruDALL-E](https://rudalle.ru/)
+- [reDALL-E SR (Real-ESRGAN)](https://replicate.com/cjwbw/rudalle-sr) `hands-on` `web app`
 - [JoJoGAN](https://huggingface.co/spaces/akhaliq/JoJoGAN)
 - [AnimaGANv2](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
 - [ArcaneGAN](https://huggingface.co/spaces/akhaliq/ArcaneGAN)
