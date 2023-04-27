@@ -125,6 +125,11 @@
 - [Real-ESRGAN](https://replicate.com/nightmareai/real-esrgan) `hands-on` `web app`
 - [ruDALL-E](https://rudalle.ru/)
 - [reDALL-E SR (Real-ESRGAN)](https://replicate.com/cjwbw/rudalle-sr) `hands-on` `web app`
+- [SwinIR](https://github.com/JingyunLiang/SwinIR) `GitHub` code repo`
+- [SwinIR](https://replicate.com/jingyunliang/swinir) `hands-on` `web app`
+- [Latent SR](https://replicate.com/nightmareai/latent-sr) `hands-on` `web app`
+- [SD Upscalers](https://huggingface.co/spaces/Manjushri/SD-2X-And-4X-Upscaler-GPU) `hands-on` `web app`
+
 - [JoJoGAN](https://huggingface.co/spaces/akhaliq/JoJoGAN)
 - [AnimaGANv2](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
 - [ArcaneGAN](https://huggingface.co/spaces/akhaliq/ArcaneGAN)
