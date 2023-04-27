@@ -117,9 +117,9 @@
 - [CodeFormer](https://github.com/sczhou/CodeFormer) `GitHub` `code repo`
 - [CodeFormer](https://huggingface.co/spaces/sczhou/CodeFormer) `hands-on` `web app`
 - [GFPGAN & CodeFormer](https://huggingface.co/spaces/nightfury/Image_Face_Upscale_Restoration-GFPGAN) `hands-on` `web app`
-- [ESRGAN](https://github.com/xinntao/ESRGAN)
+- [DeOldify](https://github.com/jantic/DeOldify) `GitHub` `code repo`
+- [Palette.fm](https://palette.fm/)
 - [SFTGAN](https://github.com/xinntao/SFTGAN) - Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform
-- [Basic SR](https://github.com/XPixelGroup/BasicSR)
 - [Real-ESRGAN](https://replicate.com/nightmareai/real-esrgan)
 - [Real-ESRGAN](https://huggingface.co/spaces/akhaliq/Real-ESRGAN)
 - [JoJoGAN](https://huggingface.co/spaces/akhaliq/JoJoGAN)
