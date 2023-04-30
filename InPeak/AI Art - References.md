@@ -159,6 +159,7 @@
 - [Free AI Image Generators](https://twitter.com/itsPaulAi/status/1650497347690852354) April 24, 2023 Post `twitter`
 - [Midjourney Prompt Structure](https://twitter.com/nickfloats/status/1648052447854891008) April 17, 2023 Post `twitter`
 - [Midjourney v5 Prompt Tutorials](https://twitter.com/realchasecurtis/status/1640494401343438849) March 27, 2023 Post `twitter`
+- [IMI Midjourney Prompt Builder](https://www.imiprompt.com/)
 
 # Epilogue - The Last Invention That Man Need Ever Make
 
